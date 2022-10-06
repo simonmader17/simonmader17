@@ -3,7 +3,7 @@ blue-purple: 1a1eab,904e95
 brown-green: 2C342F,554C3D
 -->
 
-# Hello 👋
+# Hello there 👋
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonmader17&show_icons=true&bg_color=30,2C342F,7C6762,554C3D&title_color=fff&text_color=fff&icon_color=fff)
 
