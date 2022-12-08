@@ -3,6 +3,7 @@ blue-purple: 1a1eab,904e95
 brown-green: 2C342F,7C6762,554C3D
 purple-pink: 753A7A,9F676E,B6729B
 purple-pink2: 6E3675,C2759D
+purple-pink3: 6D3575,09080E,C1749A
 -->
 
 # Hello there 👋
