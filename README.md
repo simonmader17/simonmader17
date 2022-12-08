@@ -3,7 +3,7 @@ blue-purple: 1a1eab,904e95
 brown-green: 2C342F,7C6762,554C3D
 purple-pink: 753A7A,9F676E,B6729B
 purple-pink2: 6E3675,C2759D
-purple-pink3: 6D3575,09080E,C1749A
+purple-pink3: 5F1F64,2D0421,B16C95
 -->
 
 # Hello there 👋
@@ -16,6 +16,6 @@ Check out my website: [simonmader.at](https://simonmader.at) 👀
 
 I am currently studying software & information engineering at the Vienna University of Technology. :student:
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonmader17&show_icons=true&bg_color=30,753A7A,9F676E,B6729B&title_color=fff&text_color=fff&icon_color=fff)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonmader17&show_icons=true&bg_color=30,5F1F64,2D0421,B16C95&title_color=fff&text_color=fff&icon_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonmader17&bg_color=30,753A7A,9F676E,B6729B&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonmader17&bg_color=30,5F1F64,2D0421,B16C95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
