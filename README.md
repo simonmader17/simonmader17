@@ -12,7 +12,7 @@ light-blue-brown: ABB7C3,9F957C,4D3E39
 
 <img align='right' src="personal_space.gif" width="230" />
 
-My name is Simon. I am a 20 year old computer science student from Austria. I focus on backend development with Java Spring, and frontend development with Next.js & Angular. 🧑‍💻
+My name is Simon. I am a 21 year old computer science student from Austria. I focus on backend development with Java Spring, and frontend development with Next.js & Angular. 🧑‍💻
 
 Check out my website: [simonmader.at](https://simonmader.at) 👀
 
